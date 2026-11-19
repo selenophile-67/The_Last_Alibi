@@ -1,0 +1,6 @@
+{
+  "name": "THE LAST ALIBI",
+  "description": "An immersive noir detective, crime investigation, and psychological mystery game set in the city of Ravenwood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
